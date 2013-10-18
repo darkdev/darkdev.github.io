@@ -38,7 +38,7 @@ Google Webmaster Tools - Connexion à Google Webmaster Tools et cliquez sur le s
 
 Google Webmaster Tools Export
 
-Note: Google a déjà recommandé que vous ajoutez à la fois le www. et le non-www. La version du domaine à l'outil Webmaster et rassembler des liens à partir des deux sources. C'est la recherche d'une valeur de différentes variantes de votre nom de domaine pour obtenir autant de données que possible.
+Note: Google a déjà recommandé que vous ajoutez à la fois le La version du domaine à l'outil Webmaster et rassembler des liens à partir des deux sources. C'est la recherche d'une valeur de différentes variantes de votre nom de domaine pour obtenir autant de données que possible.
 
 
 Étape 2: documenter votre travail
