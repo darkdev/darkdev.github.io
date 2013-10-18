@@ -4,7 +4,7 @@ Il ya quelques mois, j'ai écrit un article sur Moz tout sur ​​une pénalit�
 
 Qu'avons-nous obtenu frappé pour?
 
-Couper une longue histoire courte, la principale raison pour laquelle nous avons été frappés avec une pénalité manuel était pour l'ajout de texte d'ancre suivie dans le fond de clients des sites Web qui ont dit «Web Design Yorkshire par Pinpoint Designs" (à la fois «Web Design Yorkshire» et «Pinpoint Designs ' lié à notre site). À l'époque, nous faisions juste ce par habitude, mais nous n'avons jamais fait varier le texte d'ancre, avait toujours suivi les liens et nous étions pratiquement violons qualité directives de Google .
+Couper une longue histoire courte, le <a href="http://expertspam.com">gollumelite</a> est la principale raison pour laquelle nous avons été frappés avec une pénalité manuel était pour l'ajout de texte d'ancre suivie dans le fond de clients des sites Web qui ont dit «Web Design Yorkshire par Pinpoint Designs" (à la fois «Web Design Yorkshire» et «Pinpoint Designs ' lié à notre site). À l'époque, nous faisions juste ce par habitude, mais nous n'avons jamais fait varier le texte d'ancre, avait toujours suivi les liens et nous étions pratiquement violons qualité directives de Google .
 
 Après beaucoup de travail et de recherche, nous avons réussi à supprimer la peine de notre site web et depuis j'ai travaillé sur beaucoup d'autres sites Web de ses clients pour les aider à lever des sanctions. Nous avons travaillé avec des clients qui ont eu deux lien sanctions contre nature avec des pénalités sur place pour un contenu de faible qualité, les questions de camouflage et les problèmes de logiciels malveillants. Nous avons un excellent taux de réussite et nous sommes constamment essayons d'améliorer nos processus afin de devenir encore meilleur!
 
@@ -28,8 +28,6 @@ Webmaster Central Forums Réponse
 
 Que vous choisissiez de croire que si c'est une autre question, il ya une discussion intéressante sur cette disposition à la centrale Forums Webmaster:
 
-http://productforums.google.com/forum/ #! category-topic/webmasters/ga3vI8Y2RtA
-
 Matt Cutts a également réagi récemment en disant ce qui suit:
 
 «C'est certainement le cas que nous nous efforçons de montrer des exemples de l'ensemble des liens retournés par Webmaster Tools, et de même nous préférons évaluer les demandes de réexamen sur cette base de ces liens. Cependant, si il ya un très bon exemple de lien qui illustre un problème, nous ne laissons assez de place pour partager ce lien, notamment parce qu'elle peut aider pointer le webmaster dans une meilleure direction pour diagnostiquer et résoudre les problèmes ".
@@ -39,11 +37,6 @@ S'il peut être que Google veut juste que vous retirez la majorité des mauvais 
 Google Webmaster Tools - Connexion à Google Webmaster Tools et cliquez sur le site Web des questions, allez dans "Recherche Traffic '>' liens vers votre site", puis cliquez sur le lien «plus» dans le cadre du «Qui relie le plus 'onglet. Une fois ici, cliquez sur «Télécharger plus de liens d'échantillons" par le haut. 
 
 Google Webmaster Tools Export
-
-Ouvert Site Explorer - Visite http://www.opensiteexplorer.org et tapez votre nom de domaine (assurez-vous que vous obtenez ce tout à fait exact que d'avoir une légère variation de votre nom de domaine comme manquant sur ​​le www peut provoquer un ensemble différent de résultats. ). Une fois chargé, cliquez sur l'onglet "Rapports avancés, cochez« Liens qui viennent: page un lien externe »et laisser tous les autres paramètres tels qu'ils sont, puis cliquez sur Exporter.
-Ahrefs - Visite http://www.ahrefs.com et entrent dans votre domaine. Cliquez sur l'onglet 'CSV' et exporter la liste des «Backlinks / Ref pages». Ahrefs est un outil absolument génial qui nous a aidé tant de fois avec des campagnes d'élimination de lien. Il vous permet d'affiner rapidement des liens au niveau du site, des liens suivis / nofollow et plus encore.
-Majestic SEO - Visitez http://www.majesticseo.com , entrez votre nom de domaine et sélectionnez 'indice historique ». Cela montrera tous vos liens précédents au lieu de simplement la plus récente. Cliquez sur l'onglet backlinks, faites défiler vers le bas de la page et cliquez sur «télécharger des données».
-La plupart des sites ci-dessus, il faudra que vous ayez abonnements afin de recueillir les données. Des sites tels que Majestic SEO vous permettra d'utiliser l'outil gratuitement (ou une quantité limitée) si vous avez le domaine vérifié dans votre compte Outils pour les webmasters. Cela étant dit, pour l'amour de l'adhésion de l'un ou les deux mois, il vaut la peine de payer pour la richesse des données que vous obtiendrez.
 
 Note: Google a déjà recommandé que vous ajoutez à la fois le www. et le non-www. La version du domaine à l'outil Webmaster et rassembler des liens à partir des deux sources. C'est la recherche d'une valeur de différentes variantes de votre nom de domaine pour obtenir autant de données que possible.
 
@@ -174,7 +167,7 @@ A un peu plus difficile à détecter une emblée. Habituellement, vous pouvez re
 
 Est-ce que l'article a du sens? - Est-il en anglais, faire des phrases du sens? ou est-il filé, faible ordures qualité qui profite à personne.
 Le site est bien conçu? - Est-ce que le site ressemble à un véritable blogue qui a été soigné, entretenu et mis à jour régulièrement? Ou est-il utilise un modèle standard avec affichage et du contenu terribles.
-Le contenu du site Web unique - Vous pouvez utiliser un site comme http://www.copyscape.com pour trouver le duplicate content / filé.
+Le contenu du site Web unique - Vous pouvez utiliser un site comme pour trouver le duplicate content / filé.
 Est la haute qualité de l'article - Encore une fois, ce n'est plus que de l'interprétation, mais ne l'article fourni aucune valeur à votre entreprise ou est-elle là pour le plaisir d'être là? Si elle est de grande qualité, mais seulement liée dans le mauvais sens, demander au webmaster d'ajouter un nofollow attribuer lui sont assignées.
 Est le blog trop uniforme - Est-ce que le billet de blog sur les chaussures d'un jour, le logiciel du jour et de la médecine qui suit le jour suivant? Aussi, ne chaque poste ont un lien sortant vers un autre site, la même longueur et pleine de texte d'ancrage à l'aide des mots-clés «de l'argent»? Si c'est le cas, ils ne sont pas concentrés et très probablement soit d'automatiser leur mise en ligne / en essayant de construire un site à des fins de référencement. Évitez ces sites et de supprimer les liens.
 Y at-il un moyen facile de contacter les propriétaires - Beaucoup de blogs de qualité inférieure vont supprimer le formulaire de contact, ou masquer complètement qui est derrière eux. Si vous ne pouvez pas entrer en contact avec le propriétaire, il est susceptible d'être de mauvaise qualité et devrait être supprimée.
@@ -308,7 +301,7 @@ Il ya toujours des outils disponibles pour aider à rendre notre vie plus facile
 
 Domaine Informations de contact:
 
-http://tools.seogadget.co.uk/ - Cet outil est excellent (et gratuit!). Il vous permet d'entrer dans l'URL du site de la peine et tirez un grand nombre de différentes méthodes de contact pour chaque site. Vous pouvez alors remplir votre feuille de calcul Google Docs avec l'information et l'utiliser pour programme d'extension aux webmasters.
+Cet outil est excellent (et gratuit!). Il vous permet d'entrer dans l'URL du site de la peine et tirez un grand nombre de différentes méthodes de contact pour chaque site. Vous pouvez alors remplir votre feuille de calcul Google Docs avec l'information et l'utiliser pour programme d'extension aux webmasters.
 
 Contactez-Finder par la citation Labs - Garrett français a construit un outil où vous pouvez entrer une liste d'URL pour lesquelles vous voulez rassembler adresses e-mail, formulaires de contact et de «contact us» pages. De là, vous pouvez exporter un fichier CSV qui pourrait être utile en venant à trouver d'autres formes de méthode de contact.
 
@@ -328,7 +321,7 @@ Soyez poli - Les webmasters vous font une faveur. Que ce soit vous ou votre pré
 Essayez de trouver le nom des webmasters - Ne pas démarrer l'e-mail comme un simple «bonjour». Essayez d'obtenir le premier nom de webmasters et envoyer un e-mail qui est un peu plus personnelle. Vous êtes beaucoup plus susceptibles d'obtenir une réponse si vous vous adressez directement le contact.
 Essayez d'envoyer un courriel à partir du domaine que vous essayez de supprimer - Celui-ci semble simple, mais si vous êtes un organisme comme nous, vous souhaitez parfois de sensibilisation à l'adresse email des agences. Au lieu de cela, essayez d'utiliser une adresse e-mail sur le domaine que vous essayez d'obtenir enlevé. Nous avons vu un bien meilleur taux de réponse lors de cette opération.
 Soyez bref et doux - Plus elle est courte, moins le temps d'un webmaster doit dépenser pour elle et plus ils sont susceptibles de vous aider. Penser les choses logiquement, ils vont probablement avoir eu un peu de ces demandes, il ne faut pas les faire passer beaucoup de temps à la lecture, en particulier sur le premier e-mail.
-Il ya quelques messages en ligne sur les gens qui ont reçu des courriels de sociétés demandant le retrait du lien. Apprendre de leurs erreurs et de faire vos recherches à l'avance. Un exemple peut être trouvé sur Matt Blog Bors ici - http://www.mattbors.com/blog/2013/08/02/link-removal-request/
+Il ya quelques messages en ligne sur les gens qui ont reçu des courriels de sociétés demandant le retrait du lien. Apprendre de leurs erreurs et de faire vos recherches à l'avance. Un exemple peut être trouvé sur Matt Blog Bors ici
 
 Nos liens des modèles de suppression changent assez régulièrement en fonction du nombre de réponses que nous semblons obtenir. En général, je recommande quelque chose le long des lignes de:
 
@@ -362,7 +355,7 @@ Je vous recommandons de contacter un webmaster d'un minimum de trois fois. Cela 
 
 Espérons que d'ici ce moment, vous commencez à voir comment vous allez construire une image à Google de regarder à travers et de voir que vous essayez très dur pour supprimer les liens. Malheureusement, vous ne réussirez jamais à obtenir une peine de lien supprimé à moins que vous mettez dans l'effort, si ce qui précède est d'autant nécessaire. Prenez votre temps, en profondeur et de travailler à travers la liste de manière systématique.
 
-Astuce: Il est toujours intéressant vérifier http://deletebacklinks.com/ pour voir si elles peuvent retirer un de vos backlinks en vrac. Avec un client, nous avons réussi à éliminer 92 backlinks pour un peu plus de 50 $ via le service backlinks suppression.
+Astuce: Il est toujours intéressant vérifier pour voir si elles peuvent retirer un de vos backlinks en vrac. Avec un client, nous avons réussi à éliminer 92 backlinks pour un peu plus de 50 $ via le service backlinks suppression.
 
 Étape 6: l'outil désavouer
 
@@ -384,7 +377,7 @@ domaine: yourdomain.com
 
 Quelques conseils pour les fichiers de désavouer:
 
-Ne pas inclure le http://www . avant un domaine
+Ne pas inclure le avant un domaine
 Ne pas inclure quoi que ce soit après l'extension de domaine. Par exemple:. Com, co.uk (sauf si vous êtes seulement renier une URL spécifique)..
 Mettez chaque domaine sur une nouvelle ligne et ajouter des commentaires dans le fichier afin que Google sait pourquoi vous les désavouer. Préfixer tous les commentaires par le symbole #.
 Au moment où vous avez terminé, votre fichier de désavouer devrait ressembler à ceci:
@@ -414,7 +407,7 @@ Dans le passé, nous avons essayé de mentionner le budget Adwords d'un client c
 
 Nous avons toujours mentionner si un client a de bonnes critiques en ligne (surtout à partir d'une source 3ème partie comme trustpilot), mais je ne crois pas que cela fait une réelle différence. C'est juste une belle touche pour montrer que vous n'êtes pas essayer de déranger personne.
 
-Matt Cutts a expliqué ce qui devrait être inclus dans une demande de réexamen approprié - https://www.youtube.com/watch?feature=player_embedded&v=8MfPe1NbsoA
+Matt Cutts a expliqué ce qui devrait être inclus dans une demande de réexamen approprié
 
 Seulement soumettre une demande de réexamen une fois que vous êtes heureux que vous avez pris toutes les mesures appropriées pour résoudre les problèmes liés à votre site web. Google a fourni quelques bonnes notes sur leur blog site , c'est donc la peine de lire à travers.
 
